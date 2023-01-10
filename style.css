@@ -1,3 +1,5 @@
+
+
 body{
 	font-family: 'Montserrat', sans-serif;
 }
@@ -173,7 +175,7 @@ td, th {
 
 .principal{
 	padding: 3em 0;
-	background: FEFEFE;
+	background: #CCCCCC;
 	width: 940px;
 	margin: 0 auto;
 }
@@ -183,7 +185,7 @@ td, th {
 }
 
 .principal strong{
-	font-weight: bold;	 
+	font-weight: bold;
 }
 
 .principal em{
